@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ebs-test-typescript-list/static/js/main.e533dc2b.chunk.js",
+    "main.js.map": "/ebs-test-typescript-list/static/js/main.e533dc2b.chunk.js.map",
+    "runtime-main.js": "/ebs-test-typescript-list/static/js/runtime-main.455fbf91.js",
+    "runtime-main.js.map": "/ebs-test-typescript-list/static/js/runtime-main.455fbf91.js.map",
+    "static/js/2.9538c866.chunk.js": "/ebs-test-typescript-list/static/js/2.9538c866.chunk.js",
+    "static/js/2.9538c866.chunk.js.map": "/ebs-test-typescript-list/static/js/2.9538c866.chunk.js.map",
+    "index.html": "/ebs-test-typescript-list/index.html",
+    "precache-manifest.1fe65ce38bb6c38300e976fd71220ce1.js": "/ebs-test-typescript-list/precache-manifest.1fe65ce38bb6c38300e976fd71220ce1.js",
+    "service-worker.js": "/ebs-test-typescript-list/service-worker.js",
+    "static/js/2.9538c866.chunk.js.LICENSE.txt": "/ebs-test-typescript-list/static/js/2.9538c866.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.455fbf91.js",
+    "static/js/2.9538c866.chunk.js",
+    "static/js/main.e533dc2b.chunk.js"
+  ]
+}
